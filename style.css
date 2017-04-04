@@ -56,13 +56,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
  table {
   margin: 0 auto;
   text-align: center;
-   .categories {
+}
+   .categories{
   background-color: silver;
   color: white;
   font-family: 'Lobster Two', cursive;
   font-size: 30px;
   }
-  td {
+  td{
   border: 1px dotted grey;
   border-collapse: collapse;
   padding: 10px;
