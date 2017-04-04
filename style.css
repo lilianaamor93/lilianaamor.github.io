@@ -68,3 +68,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
   border-collapse: collapse;
   padding: 10px;
   }
+section{
+  padding:10px;
+}
