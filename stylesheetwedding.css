@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CONTENT
+DIV: this selector shows the central box that contains all the information.
+H1: is the main title, in this case the names of the husband and bride.
+H2: contains the second sentence with the statement "are getting married"
+H3: contains the date.
+p: contains the paragraph qith the rest of the text.
+*/
+body{
+	background-image:url(back.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	text-align: center;
+	color:white;
+}
+#menu{
+	margin:-8px;
+	background-color:rgba(255, 255, 255, 0.2);
+	font-family: orpheuspro, serif;
+	font-weight: 100;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  margin:2%;
+  font-size:18px;
+  width:auto; line-height: 45px;
+ background-color:rgba(255, 255, 255, 0.1);
+padding: 2px 60px 2px 60px;	
+  }
+
+div{
+	padding:5%;
+	border: 1px solid;
+	margin: 8%;
+}
+h1{
+	font-family: lush, sans-serif;
+	font-size:500%;
+	font-weight: 100;
+	margin-bottom: -5px;
+}
+h2{
+	font-family: acta-display, serif;
+	font-weight: 100;
+	font-size: 20px;
+}
+h3{
+	font-family: acta-display, serif;
+	font-weight: 100;
+	font-size: 18px;
+}
+#inv{
+	margin-top: 40px;
+	text-align: justify;
+	font-family: freight-text-pro, serif;
+	font-weight: 100;
+}
